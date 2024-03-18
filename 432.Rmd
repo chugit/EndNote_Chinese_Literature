@@ -1,0 +1,34 @@
+---
+title: "EndNote安装教程"
+author: "CHU Juncong"
+date: "2024-3-18"
+output:
+  html_notebook:
+    toc: yes
+    toc_float: yes
+    anchor_sections: yes
+    number_sections: yes
+    theme: cerulean
+    highlight: haddock
+    df_print: paged
+    #code_download: true
+---
+
+下载地址：
+
+https://pan.baidu.com/s/1Z3x-qNc4hNGo3eq84php9Q
+
+提取码：hdns
+
+
+
+
+
+
+
+
+
+
+
+
+
