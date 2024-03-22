@@ -80,6 +80,6 @@ EndNote是一款功能齐全的文献管理工。目前网络上流传较广的�
 
 # 参考
 
-安装教程参考：[EndNote X9.3.3 安装使用](https://mp.weixin.qq.com/s/iEv_JcwFVKLC-SQXF9zw_w/ "EndNote X9.3.3 安装使用")
+安装教程参考：[EndNote X9.3.3 安装使用](https://mp.weixin.qq.com/s/iEv_JcwFVKLC-SQXF9zw_w "EndNote X9.3.3 安装使用")
 
 EndNote X9使用教程pdf：[手把手教你使用 EndNote X9](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/ "wanzhenchn/EndNote_Tutorial_Hand_by_Hand")
