@@ -4,9 +4,7 @@ EndNote是一款功能齐全的文献管理工。目前网络上流传较广的�
 
 # 下载地址
 
-链接：<https://pan.baidu.com/s/1sOMlmL0-fmpyPg1p9cZm-g?pwd=jp36>
-
-提取码：jp36
+链接：<https://pan.baidu.com/s/1P2y1Fm-szALDzHQ6o4Pawg?pwd=ghs4>
 
 # 安装步骤
 
