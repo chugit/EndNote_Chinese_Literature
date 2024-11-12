@@ -4,9 +4,7 @@
 
 参考 [相关教程](EndNote安装教程.md/ "EndNote X9.3.3 安装教程")，安装 **EndNote X9.3.3 中科大英文版.exe**。
 
-链接：<https://pan.baidu.com/s/1sOMlmL0-fmpyPg1p9cZm-g?pwd=jp36>
-
-提取码：jp36
+链接：<https://pan.baidu.com/s/1P2y1Fm-szALDzHQ6o4Pawg?pwd=ghs4>
 
 # 参考文献类型 Reference Types
 
